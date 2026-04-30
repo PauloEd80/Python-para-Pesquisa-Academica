@@ -12,7 +12,7 @@ Características:
 - Análise de tendências temporais
 - Categorização de contribuições
 
-Autor: Sistema de Pesquisa Científica
+Autor: Turma Engenharia de Software Positivo
 Data: Abril 2026
 Versão: 6.0
 """
