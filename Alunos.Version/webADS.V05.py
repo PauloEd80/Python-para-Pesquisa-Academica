@@ -11,7 +11,7 @@ Características:
 - Múltiplos formatos de exportação
 - Sistema de cache para continuidade
 
-Autor: Sistema de Pesquisa Avançado
+Autor: Turma ADS Positivo
 Data: Abril 2026
 """
 
